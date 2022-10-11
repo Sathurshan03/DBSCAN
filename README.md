@@ -13,5 +13,5 @@ For the most part, the implemented DBSCAN can accurately distinguish clusters an
 2. The sensors may pick up two different dense data points for the same vehicle. In this DBSCAN implementation, the maximum number of tracks is set to three. As a result, if the DBSCAN determines two tracks for the same vehicle, then there is a possibility to lose track of a different vehicle
 
 ## Future Work
-In the future, the DBSCAN implementation will have a method to distinguish vehicles even when they are in close proximity to each other. This can be achieved through the optimization of the radius and the minimum number of points parameters. The DBSCAN will also be able to combine two dense data points that represent the same vehicle to reduce redudant tracks. 
+In the future, the DBSCAN implementation will have a method to distinguish vehicles even when they are in close proximity to each other. This can be achieved by optimizing the radius and the minimum number of points parameters. The DBSCAN will also be able to combine two dense data points that represent the same vehicle to reduce redudant tracks. 
 
