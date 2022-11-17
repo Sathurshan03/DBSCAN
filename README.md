@@ -1,7 +1,7 @@
 # DBSCAN
 I explore the world of autonomous vehicles by implementing a sensor fusion algorithm with a set of given vehicle data. The MATLAB script file contains an implementation of a DBSCAN.
 
-The demonstration.zip folder contains a screen recording of a simulation of the DBSCAN (Note: the roads, sensors, and other vehicles motions in the simulation were provided by Sam Khzym). The dots on the left panel represents sensor detections and the black squares represent the tracks determined by the DBSCAN. 
+The demonstration.zip folder contains a screen recording of a simulation of the DBSCAN (Note: the roads, sensors, file template and other vehicles motions in the simulation were provided by Sam Khzym). The dots on the left panel represents sensor detections and the black squares represent the tracks determined by the DBSCAN. 
 
 <img width="1108" alt="demo" src="https://user-images.githubusercontent.com/71148152/194801600-e3fdb410-80ef-4e0e-8a2d-e07d3a50a05e.png">
 
